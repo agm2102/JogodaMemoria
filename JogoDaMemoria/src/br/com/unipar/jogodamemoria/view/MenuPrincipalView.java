@@ -78,7 +78,7 @@ public class MenuPrincipalView extends JFrame {
     private JButton criarBotao(String texto, Color corFundo) {
         JButton botao = new JButton(texto);
         botao.setFocusPainted(false);
-        botao.setForeground(Color.WHITE);
+        botao.setForeground(Color.BLACK);
         botao.setBackground(corFundo);
         botao.setPreferredSize(new Dimension(200, 60));
         botao.setFont(new Font("Arial", Font.BOLD, 18));

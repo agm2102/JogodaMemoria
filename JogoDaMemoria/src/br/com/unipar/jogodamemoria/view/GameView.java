@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package br.com.unipar.jogodamemoria.view;
 
 import java.awt.BorderLayout;
@@ -10,10 +7,6 @@ import java.awt.GridLayout;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Adrian
- */
 public class GameView extends JFrame {
 
     private final JPanel painel;
